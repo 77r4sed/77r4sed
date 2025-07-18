@@ -9,7 +9,7 @@
 ```json
 {
   "Name": "77r4sed",
-  "Languages": ["C", "C++"],
+  "Languages": ["Python", "C++"],
   "Interests": [
     "🦠 Malware",
     "🔍 Reverse Engineering",
